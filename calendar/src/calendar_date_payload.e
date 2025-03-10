@@ -8,7 +8,7 @@ class
 	CALENDAR_DATE_PAYLOAD
 
 	inherit
-		JSON_SERIALIZABLE
+		JSON_EXT_SERIALIZABLE
 			undefine
 				default_create
 				redefine
