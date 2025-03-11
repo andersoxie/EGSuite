@@ -32,7 +32,7 @@
 		<library name="json" location="$ISE_LIBRARY\contrib\library\text\parser\json\library\json.ecf" readonly="false">
 			<option warning="none"/>
 		</library>
-		<library name="json_ext" location="..\..\json_ext_original\json_ext-save-2025-02-18\json_ext.ecf" readonly="false">
+		<library name="json_ext" location="..\..\json_ext_original\json_ext\json_ext.ecf" readonly="false">
 			<option warning="none"/>
 			<renaming old_name="JSON_SERIALIZABLE" new_name="JSON_SERIALIZABLE_EXT"/>
 		</library>
